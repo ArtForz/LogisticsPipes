@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry excluding="appeng/api/**|codechicken/core/**|codechicken/enderstorage/**|codechicken/multipart/**|codechicken/nei/**|cofh/api/**|cpw/mods/ironchest/**|crazypants/enderio/machine/**|dan200/computercraft/ComputerCraft.java|dan200/computercraft/shared/**|extracells/**|forestry/core/**|gregtechmod/api/interfaces/**|ic2/core/**|logisticspipes/**|mcp/mobius/**|net/machinemuse/**|powercrystals/minefactoryreloaded/api/**|thaumcraft/client/**|thaumcraft/common/**|thermalexpansion/**" kind="src" path="src">
+	<classpathentry excluding="appeng/api/**|codechicken/core/**|codechicken/enderstorage/**|codechicken/multipart/**|codechicken/nei/**|cofh/api/**|cpw/mods/ironchest/**|crazypants/enderio/machine/**|dan200/computercraft/ComputerCraft.java|dan200/computercraft/shared/**|extracells/**|forestry/core/**|gregtechmod/api/interfaces/**|ic2/core/**|logisticspipes/**|mcp/mobius/**|net/machinemuse/**|org/luaj/vm2/**|powercrystals/minefactoryreloaded/api/**|thaumcraft/client/**|thaumcraft/common/**|thermalexpansion/**" kind="src" path="src">
 		<attributes>
 			<attribute name="ignore_optional_problems" value="true"/>
 		</attributes>
